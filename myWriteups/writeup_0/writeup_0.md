@@ -2,7 +2,7 @@
 
 F12：
 
-![sp0_[SWPUCTF 2021 新生赛]gift_F12](https://raw.github.com/netaves/repositpry/master/helloCTF/writeup_0/images/sp0_[SWPUCTF 2021 新生赛]gift_F12.png)
+![sp0_[SWPUCTF 2021 新生赛]gift_F12](https://github.com/netaves/HelloCTF/blob/main/myWriteups/writeup_0/images/sp0_%5BSWPUCTF%202021%20%E6%96%B0%E7%94%9F%E8%B5%9B%5Dgift_F12.png)
 
 得到Flag：{We1c0me_t0_WLLMCTF_Th1s_1s_th3_G1ft}
 
